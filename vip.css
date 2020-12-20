@@ -1,0 +1,22 @@
+.container  {
+
+
+align-items: center;
+justify-content: center;
+text-align: center;
+display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+
+}
+
+.container img {
+    max-width:300px;
+    max-height:250px;
+    width: auto;
+    height: auto;
+    margin-top: 16vh;
+}
+
+.container ul {
+    list-style-type: none;
+}
